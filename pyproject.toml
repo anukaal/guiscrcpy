@@ -33,4 +33,4 @@ build-backend = "poetry.core.masonry.api"
 
 
 [tool.poetry.scripts]
-guiscrcpy = guiscrcpy.cli:cli
+guiscrcpy = "guiscrcpy.cli:cli"
